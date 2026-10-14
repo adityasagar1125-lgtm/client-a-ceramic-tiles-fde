@@ -5,7 +5,7 @@
 1. **Case Study:** [`case-study.md`](case-study.md) — Problem analysis, proposed solution, pilot plan, risks, timeline, and business value. Main body ≤ 6 pages; PRD and assumptions in appendices.
 2. **Client Procurement Note:** [`note-to-procurement.md`](note-to-procurement.md) — Non-technical one-page summary of the proposed solution, costs, and pilot engagement.
 3. **Optional Prototype:** [`tessera_prototype.py`](tessera_prototype.py) — A synthetic-data prototype demonstrating the proposed colour-correction approach on a simplified channel-drift model. It does **not** establish performance on real production tiles, does not implement the advanced spectral model described in the case study, and reports results in ΔE76 (not the CIEDE2000 metric proposed for production acceptance).
-4. **Form Answers:** [`submission-form-answers.md`](submission-form-answers.md) (and exportable to `submission-form-answers.pdf`) — Answers to questions 1–10 in the submission form.
+4. **Form Answers:** `submission-form-answers.pdf` — Answers to questions 1–10 in the submission form.
 
 ---
 

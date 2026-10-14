@@ -62,6 +62,6 @@ All technical claims, architecture decisions, pricing, and risk assessments were
 
 ## Private Repository
 
-GitHub URL: `[Add your private repository URL here after creating the repo]`
+GitHub URL: https://github.com/adityasagar1125-lgtm/client-a-ceramic-tiles-fde
 
-*Upload all four files to the repository root. Ensure the repo is set to Private.*
+*Repository contains all case study deliverables, prototype code, and procurement note.*
